@@ -1,9 +1,9 @@
-# 个人 Copilot 与编程 Agent 研究
+# 个人版 Microsoft Copilot 的编程 Agent 接入研究
 
 截至 2026 年 11 月 11 日的源码调查和离线复现，覆盖个人 Copilot 代理、模型路由与工具调用兼容性。
 
 - [博客正文](https://shinchan-m.github.io/posts/copilot-personal-agent-research.html)
-- [Markdown 原稿](../../guides/copilot-personal-agent-research.md)
+- [Markdown 原稿](blog.md)
 - [证据与方法](evidence.md)
 - [复现脚本](reproduce.mjs)
 - [离线原始结果](offline-results.json)

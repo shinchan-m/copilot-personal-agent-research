@@ -61,7 +61,7 @@ m365-copilot-proxy 自己实现了代码块工具解析，走得更远一些。�
 
 目标项目固定提交为 `65905e881d6597040966aff9b087aa9a908b358a`。消费者参考实现固定提交为 `5b933d416e7e09095fc85ec9b895e28f8a2635de`。本次运行环境为 Node.js 24.18.0。
 
-完整材料保存在 [GitHub 研究目录](https://github.com/shinchan-m/shinchan-m.github.io/tree/main/research/copilot-personal-agent)，包括复现脚本、原始结果和详细证据。脚本读取已有源码并在内存中执行相关函数，无需安装第三方依赖。运行方法和实验边界见该目录中的 README 与 evidence.md。
+完整材料保存在 [GitHub 研究仓库](https://github.com/shinchan-m/copilot-personal-agent-research)，包括复现脚本、原始结果和详细证据。脚本读取已有源码并在内存中执行相关函数，无需安装第三方依赖。运行方法和实验边界见该仓库中的 README 与 evidence.md。
 
 1. [消费者聊天协议源码](https://github.com/sums001/Windows-Copilot-API/blob/5b933d416e7e09095fc85ec9b895e28f8a2635de/copilot/protocol.py)
 2. [消费者代理请求处理](https://github.com/sums001/Windows-Copilot-API/blob/5b933d416e7e09095fc85ec9b895e28f8a2635de/server/api.py)
